@@ -3,6 +3,7 @@
 !/.gitignore
 !/.nojekyll
 !/index.html
+!/downloaded-product-images/
 !/3daysofdesign-2026-lighting-images/
 
 # 图片资源库：只保留 4 个品牌分类封面图（约 60MB）
