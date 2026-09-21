@@ -4,12 +4,5 @@
 !/.nojekyll
 !/index.html
 !/downloaded-product-images/
-!/3daysofdesign-2026-lighting-images/
-
-# 图片资源库：只保留 4 个品牌分类封面图（约 60MB）
-# 忽略 7月更新（含版权字体）、完成ppt（254MB PPT/PDF）、工作流文档及根目录大文件
-/3daysofdesign-2026-lighting-images/*
-!/3daysofdesign-2026-lighting-images/01_纯灯具品牌/
-!/3daysofdesign-2026-lighting-images/02_家具家居兼做灯具/
-!/3daysofdesign-2026-lighting-images/03_建筑系统照明/
-!/3daysofdesign-2026-lighting-images/04_策展集合展/
+# downloaded-product-images 内为 105 张产品图 + 141 张品牌封面（_covers，回退兜底）
+# 版权字体、PPT/PDF、工作流文档不入库
